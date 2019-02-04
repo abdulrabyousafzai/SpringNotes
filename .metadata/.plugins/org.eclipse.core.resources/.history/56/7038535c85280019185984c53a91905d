@@ -1,0 +1,5 @@
+package com.abdulrab.easynotes.model;
+
+public class Note {
+
+}
